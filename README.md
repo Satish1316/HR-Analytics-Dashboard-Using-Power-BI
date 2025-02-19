@@ -1,6 +1,5 @@
-
-
 # HR Analytics Dashboard
+This project focuses on analyzing HR data to help an organization improve employee management, retention, and performance. The analysis includes insights into employee demographics, attrition rates, performance metrics, and factors influencing employee turnover.
 
 Live Interactive Dashboard: [https://lpuin-my.sharepoint.com/:u:/g/personal/satish_ganesh23_lpu_in/EQmmsl_FQDtJp5D2PNU9naIBvr-o0Xp0yDAFW01u8x2XEw?e=QltieJ]
 
