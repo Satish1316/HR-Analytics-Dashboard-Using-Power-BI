@@ -1,6 +1,4 @@
- Here’s a **GitHub description** for your **HR Analytics Dashboard** using the format provided:
 
----
 
 # HR Analytics Dashboard
 
@@ -95,6 +93,3 @@ A comprehensive HR dashboard was built to offer insights into employee demograph
 - **Compensation discrepancies** were found to be a contributing factor to employee turnover in certain departments.
 - **Performance scores** were highest in the IT and R&D departments, while sales showed below-average performance.
 
----
-
-This description captures the essence of your **HR Analytics Power BI Dashboard** project in the desired format.
